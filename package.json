@@ -1,0 +1,17 @@
+{
+  "name": "dc-levis-bot",
+  "version": "1.0.0",
+  "description": "Learning about discordjs and bots",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discordjs",
+    "javascript",
+    "node"
+  ],
+  "author": "Jeferson Sanabria (jeffersonmx@outlook.com)",
+  "license": "MIT"
+}
