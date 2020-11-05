@@ -8,8 +8,8 @@ const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
 client.on('message', msg => {
     console.log(msg.content);
     if (msg.content.toLocaleLowerCase() === 'hola') {
-      msg.reply('io');
-      msg.reply(':thinking:');
+      msg.reply('Hola');
+      msg.reply(':sunglasses:');
     }
 });
 
